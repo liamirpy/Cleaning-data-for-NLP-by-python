@@ -1,3 +1,4 @@
+###AMIR MOSAVI///LIAMIRPY 
 import pandas as pd
 import numpy as np
 import csv
@@ -63,11 +64,6 @@ for title in unique:
         com[u] = com[u].replace('❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤😍😍😍😍😍😍😍😍', ' ')
     unique_dictionary[title]=delet_stop_words(com)
     unique_dictionary[title]=' '.join(unique_dictionary[title])
-
-
-
-
-
 
 
 with open('title.csv','w') as f:
