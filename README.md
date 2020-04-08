@@ -6,6 +6,12 @@ Obviously some words or punctuations have not a lot of effect on your result.
 
 First thing you should do before cleaning your data is knowing you data completly because cleaning data is NOT a fix methodس that you can apply to any projects.
 
-In our Projects 
-
-In this project I collected a csv file that includes "STOP WORDS IN PERSIAN".
+ There are three common methods that would be useful(as I use in this project):
+ 
+ . STOP WORDS
+ 
+         In this project I collected a csv file that includes "STOP WORDS IN PERSIAN".
+         
+ . TfidfVectorizer
+ 
+        TFIF method try to find some kind of word that repeat a lots in documents and not carry  important information. 
