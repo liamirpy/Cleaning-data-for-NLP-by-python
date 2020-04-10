@@ -1,5 +1,5 @@
 # Cleaning-data-in-NLP-by-python
-How to clean our data in python
+How to clean our data in python (Here is persian documents)
 
 In processing of language, if you are looking for better result you should clean your data,in advance.
 Obviously some words or punctuations have not a lot of effect on your result.
